@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hangfire-webapi", "hangfire-webapi\hangfire-webapi.csproj", "{DEEA7449-472F-4B63-8F7A-8163982C28C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEA7449-472F-4B63-8F7A-8163982C28C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEA7449-472F-4B63-8F7A-8163982C28C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEA7449-472F-4B63-8F7A-8163982C28C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEA7449-472F-4B63-8F7A-8163982C28C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE80D01-1CFC-4EC8-851C-11EB2792089B}
+	EndGlobalSection
+EndGlobal
